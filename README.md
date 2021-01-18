@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align = "center">
+  <br><br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=RishabhNaik&count_private=true&theme=algolia&show_icons=true&line_height=20" align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNaik&count_private=true&theme=algolia&count=6&height=20&langs_count=10&layout=compact" align = "center">
+</p>
