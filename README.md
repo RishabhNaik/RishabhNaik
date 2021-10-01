@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNaik&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" width="440" />
 </td>
 </tr>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhNaik&theme=dark" alt="RishabhNaik" /></p>
 </table>
