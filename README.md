@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhNaik&count_private=true&theme=algolia&count=6&height=20&langs_count=10&layout=compact" align = "center">
 </p> -->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RishabhNaik&label=Profile%20views&color=6694ff&style=flat-square" alt="RishabhNaik" /> </p>
+
 <table border="0" align="center">
 <tr>
 <td align="center" width="324" rowspan="3" border="0">
