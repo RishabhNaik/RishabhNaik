@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <table border="0" align="center">
 <tr>
-<td align="center" width="324" rowspan="3" border="0">
+<!-- <td align="center" width="324" rowspan="3" border="0">
 <img src="https://github.com/SNDST00M/SNDST00M/raw/main/console.svg" alt="Illustration" width="324" />
-</td>
+</td> -->
 <td align="center" width="440" border="0">
 <img src="https://github-readme-stats.vercel.app/api?username=RishabhNaik&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
 </tr>
